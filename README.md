@@ -1,2 +1,2 @@
 # person-emulator
-A person emulator, for emulating person
+a person emulate, for emulate person
